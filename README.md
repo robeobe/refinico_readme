@@ -57,11 +57,10 @@
 > I believe in **choosing the right tool for the job** rather than following trends. My stack evolves based on the problem at hand, but my principles remain consistent:
 >
 > - **Simplicity over complexity** — the best solution is often the most straightforward one
-> - - **Automation first** — if a task is repetitive, it should be automated
->   - - **Observability by design** — systems should be transparent and debuggable from day one
->     - - **Iterative delivery** — ship early, learn fast, improve continuously
->      
->       - ---
+>   **Automation first** — if a task is repetitive, it should be automated
+>   **Observability by design** — systems should be transparent and debuggable from day one
+>   **Iterative delivery** — ship early, learn fast, improve continuously
+> 
 >
 > ## 📌 Current Status
 >
